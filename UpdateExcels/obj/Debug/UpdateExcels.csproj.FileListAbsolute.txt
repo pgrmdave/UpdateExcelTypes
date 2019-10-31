@@ -1,0 +1,10 @@
+C:\Users\David\Documents\Visual Studio 2017\Projects\UpdateExcels\UpdateExcels\bin\Debug\UpdateExcels.exe.config
+C:\Users\David\Documents\Visual Studio 2017\Projects\UpdateExcels\UpdateExcels\bin\Debug\UpdateExcels.exe
+C:\Users\David\Documents\Visual Studio 2017\Projects\UpdateExcels\UpdateExcels\bin\Debug\UpdateExcels.pdb
+C:\Users\David\Documents\Visual Studio 2017\Projects\UpdateExcels\UpdateExcels\obj\Debug\UpdateExcels.csprojAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2017\Projects\UpdateExcels\UpdateExcels\obj\Debug\UpdateExcels.Form1.resources
+C:\Users\David\Documents\Visual Studio 2017\Projects\UpdateExcels\UpdateExcels\obj\Debug\UpdateExcels.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2017\Projects\UpdateExcels\UpdateExcels\obj\Debug\UpdateExcels.csproj.GenerateResource.cache
+C:\Users\David\Documents\Visual Studio 2017\Projects\UpdateExcels\UpdateExcels\obj\Debug\UpdateExcels.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Visual Studio 2017\Projects\UpdateExcels\UpdateExcels\obj\Debug\UpdateExcels.exe
+C:\Users\David\Documents\Visual Studio 2017\Projects\UpdateExcels\UpdateExcels\obj\Debug\UpdateExcels.pdb
